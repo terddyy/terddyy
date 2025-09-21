@@ -51,13 +51,20 @@ Currently, I'm diving into AI to develop smarter, more innovative solutions that
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/webflow-icon.png" alt="Webflow" width="48" height="48"/>
 </p>
 
- ![snakkeee](https://github.com/user-attachments/assets/767354e9-fe1e-4009-b421-2f49388bfda5) 
- 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=terddyy&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=terddyy&theme=ambient_gradient&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=terddyy&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+## 🖼️ Preview  
+<img src="https://github.com/user-attachments/assets/767354e9-fe1e-4009-b421-2f49388bfda5" alt="snakkeee" width="600"/>
+---
 
+# 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=terddyy&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub Stats" height="150"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=terddyy&theme=ambient_gradient&hide_border=false" alt="GitHub Streak" height="150"/>
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=terddyy&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages" height="150"/>
+</p>
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
