@@ -17,7 +17,7 @@ Currently, I'm diving into AI to develop smarter, more innovative solutions that
 
 ## 📚 Frameworks & Libraries
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,reactnative,nextjs,laravel,vue,flutter,django,express,fastapi,flask,bootstrap,tailwind,chakra,jquery,vite,expo,opencv,wordpress" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,laravel,vue,flutter,django,express,fastapi,flask,bootstrap,tailwind,jquery,vite,opencv,wordpress" />
 </p>
 
 ## ☁️ Cloud & Hosting
