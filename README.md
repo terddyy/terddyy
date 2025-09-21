@@ -42,8 +42,16 @@ Currently, I'm diving into AI to develop smarter, more innovative solutions that
 
 ## 🎨 Design
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=adobe" />
+  <!-- Adobe Photoshop -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="Photoshop" width="48" height="48"/>
+  
+  <!-- Figma -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="48" height="48"/>
+  
+  <!-- Webflow -->
+  <img src="https://cdn.worldvectorlogo.com/logos/webflow.svg" alt="Webflow" width="48" height="48"/>
 </p>
+
 
 
 # 📊 GitHub Stats:
