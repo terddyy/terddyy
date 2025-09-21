@@ -12,6 +12,9 @@ Currently, I'm diving into AI to develop smarter, more innovative solutions that
 # 💻 Tech Stack:
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,php,python,r,dart,java,cs" />
+  <!-- TypeScript -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="48" height="48"/>
+
 </p>
 
 ## 📚 Frameworks & Libraries
