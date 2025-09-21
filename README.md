@@ -10,8 +10,7 @@ Currently, I'm diving into AI to develop smarter, more innovative solutions that
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:thezentarigroup@gmail.com) <br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://ph.linkedin.com/in/terd/tl) <br>
 
-| Snake Eating Contributions|
-| ------------------------------------------|
+
 | ![snakkeee](https://github.com/user-attachments/assets/767354e9-fe1e-4009-b421-2f49388bfda5) | 
 
 
