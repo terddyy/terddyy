@@ -53,7 +53,6 @@ Currently, I'm diving into AI to develop smarter, more innovative solutions that
 
 ## 🖼️ Preview  
 <img src="https://github.com/user-attachments/assets/767354e9-fe1e-4009-b421-2f49388bfda5" alt="snakkeee" width="600"/>
----
 
 # 📊 GitHub Stats
 
@@ -65,8 +64,6 @@ Currently, I'm diving into AI to develop smarter, more innovative solutions that
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=terddyy&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages" height="150"/>
 </p>
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=terddyy&limit=5&theme=dark&combine_all_yearly_contributions=true)
