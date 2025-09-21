@@ -9,7 +9,6 @@ Currently, I'm diving into AI to develop smarter, more innovative solutions that
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:thezentarigroup@gmail.com) <br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://ph.linkedin.com/in/terd/tl) 
- ![snakkeee](https://github.com/user-attachments/assets/767354e9-fe1e-4009-b421-2f49388bfda5) 
 # 💻 Tech Stack:
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,php,python,r,dart,java,cs" />
@@ -51,9 +50,7 @@ Currently, I'm diving into AI to develop smarter, more innovative solutions that
   <!-- Webflow -->
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/webflow-icon.png" alt="Webflow" width="48" height="48"/>
 </p>
-
-
-
+ ![snakkeee](https://github.com/user-attachments/assets/767354e9-fe1e-4009-b421-2f49388bfda5) 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=terddyy&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=terddyy&theme=ambient_gradient&hide_border=false)<br/>
