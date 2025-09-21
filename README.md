@@ -49,7 +49,7 @@ Currently, I'm diving into AI to develop smarter, more innovative solutions that
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="48" height="48"/>
   
   <!-- Webflow -->
-  <img src="https://cdn.worldvectorlogo.com/logos/webflow.svg" alt="Webflow" width="48" height="48"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/webflow.svg](https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/webflow-icon.png" alt="Webflow" width="48" height="48"/>
 </p>
 
 
