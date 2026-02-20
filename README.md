@@ -1,7 +1,7 @@
 # 💫 About Me:
-👋 Hi, I'm Terd Inocentes, a full-stack software engineer with expertise in the MERN stack, JavaScript, and PHP. I create custom tools, websites, and apps to solve real-world business challenges, from SEO to digital marketing. <br><br>
+👋 Hi, I'm Terd Inocentes, a full-stack software engineer. I create custom tools, websites, and apps to solve real-world business challenges, from SEO to digital marketing. <br><br>
 
-I founded a 4000-member gaming community and have a background in Computer Science and IT support. My goal is to build high-impact, scalable systems that help teams and businesses thrive. <br><br>
+I was a CTO at Optrizo Digital Solutions and later founded my own company. I build high-impact, scalable systems that help teams and businesses thrive. <br><br>
 
 Currently, I'm diving into AI to develop smarter, more innovative solutions that boost productivity and push the boundaries of technology. <br>
 
