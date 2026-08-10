@@ -8,6 +8,10 @@
   <a href="https://www.facebook.com/TERDTHEPRO">Facebook</a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=terddyy&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" alt="Profile views">
+</p>
+
 I lead the design and delivery of intelligent digital products, from software architecture and machine learning to full-stack development and production infrastructure. My work combines technical leadership with hands-on engineering, product thinking, and an entrepreneurial perspective.
 
 ## Leadership & Ventures
