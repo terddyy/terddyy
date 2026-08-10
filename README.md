@@ -8,6 +8,10 @@
   <a href="mailto:terd@zentariph.com">Professional email</a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=terddyy&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat&amp;base=9129" alt="Profile views">
+</p>
+
 I lead the design and delivery of intelligent digital products, from software architecture and machine learning to full-stack development and production infrastructure. My work combines technical leadership with hands-on engineering, product thinking, and an entrepreneurial perspective.
 
 ## Selected Impact
@@ -19,6 +23,29 @@ I lead the design and delivery of intelligent digital products, from software ar
 - **Lead Software Engineer** at [Nexvision Innovations](https://nexvision.info/)
 - **Founder** of Zentari Software Solutions
 - **Lead Engineer** at [Optrizo Digital Solutions](https://www.optrizo.com/)
+
+## Credentials
+
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://www.ibm.com/design/language/a41bb6fc86bf12f915d28f4c34f33d74/8bar.svg" alt="IBM logo" width="80">
+    </td>
+    <td><strong>IBM Full Stack Software Developer</strong></td>
+  </tr>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://brm-workforce.oracle.com/pdf/certview/images/OCI25GAIOCP.png" alt="Oracle Certified Generative AI Professional badge" width="80">
+    </td>
+    <td><strong>Oracle Certified Generative AI Professional</strong></td>
+  </tr>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://brandguide.asu.edu/profiles/contrib/webspark/modules/asu_brand/node_modules/@asu/component-header-footer/dist/assets/img/arizona-state-university-logo-vertical.png" alt="Arizona State University logo" width="90">
+    </td>
+    <td><strong>Arizona State University Industry Track Scholar</strong></td>
+  </tr>
+</table>
 
 ## Selected Work
 
