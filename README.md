@@ -1,81 +1,29 @@
-# 💫 About Me:
-👋 Hi, I'm Terd Inocentes, a full-stack software engineer. I create custom tools, websites, and apps to solve real-world business challenges, from SEO to digital marketing. <br><br>
+<h1 align="center">Terd Imogen Inocentes</h1>
 
-I was a CTO at Optrizo Digital Solutions and later founded my own company. I build high-impact, scalable systems that help teams and businesses thrive. <br><br>
+<p align="center"><strong>Lead Software Engineer · AI Engineer · Full-Stack Developer</strong></p>
 
-Currently, I'm diving into AI to develop smarter, more innovative solutions that boost productivity and push the boundaries of technology. <br>
-
-
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:thezentarigroup@gmail.com) <br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://ph.linkedin.com/in/terd/tl) 
-# 💻 Tech Stack:
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,r,dart,java,cs" />
-  <!-- TypeScript -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="48" height="48"/>
-
+<p align="center">
+  <a href="https://terd.dev/">Portfolio</a> ·
+  <a href="mailto:terd@zentariph.com">Email</a> ·
+  <a href="https://www.facebook.com/TERDTHEPRO">Facebook</a>
 </p>
 
-## 📚 Frameworks & Libraries
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,laravel,vue,flutter,django,express,fastapi,flask,bootstrap,tailwind,jquery,vite,opencv,wordpress" />  <img src="https://cdn.worldvectorlogo.com/logos/expo-go-app.svg" alt="Expo" width="48" height="48"/>
-</p>
+I lead the design and delivery of intelligent digital products, from software architecture and machine learning to full-stack development and production infrastructure. My work combines technical leadership with hands-on engineering, product thinking, and an entrepreneurial perspective.
 
-## ☁️ Cloud & Hosting
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,vercel,firebase,cloudflare,oracle,apache" />
-</p>
+## Leadership & Ventures
 
-## 🗄️ Databases
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,dynamodb,supabase" />
-</p>
+- **Lead Software Engineer** at [Nexvision Innovations](https://nexvision.info/)
+- **Founder** of [Zentari Software Solutions](https://www.facebook.com/zentarisoftwaresolution)
+- **Lead Engineer** at [Optrizo Digital Solutions](https://www.optrizo.com/)
 
-## 🛠️ Tools & Others
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,gitlab,postman,npm,yarn,powerbi" />
-</p>
+## Focus
 
-## 📊 Data & AI/ML
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,numpy,pandas,matplotlib" />
-</p>
+Artificial intelligence and machine learning, full-stack development, DevOps and cloud infrastructure, software architecture, technical leadership, entrepreneurship, and digital product development.
 
-## 🎨 Design
-<p align="left">
-  <!-- Adobe Photoshop -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="Photoshop" width="48" height="48"/>
-  
-  <!-- Figma -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="48" height="48"/>
-  
-  <!-- Webflow -->
-  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/webflow-icon.png" alt="Webflow" width="48" height="48"/>
-</p>
+## Beyond Engineering
 
-## 🖼️ Preview  
-<img src="https://github.com/user-attachments/assets/767354e9-fe1e-4009-b421-2f49388bfda5" alt="snakkeee" width="600"/>
+Outside software development, I enjoy playing guitar, sports, online games, and exploring new technologies and business ideas.
 
-# 📊 GitHub Stats
+## Contact
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=terddyy&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub Stats" height="150"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=terddyy&theme=ambient_gradient&hide_border=false" alt="GitHub Streak" height="150"/>
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=terddyy&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages" height="150"/>
-</p>
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=terddyy&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=terddyy&icon=0&color=0)](https://visitcount.itsvg.in)
-
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/terddy) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+**Email:** [terd@zentariph.com](mailto:terd@zentariph.com) · **Facebook:** [Terd Imogen](https://www.facebook.com/TERDTHEPRO) · **Portfolio:** [terd.dev](https://terd.dev/)
