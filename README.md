@@ -16,7 +16,7 @@ I lead the design and delivery of intelligent digital products, from software ar
 
 ## Selected Impact
 
-- **$3M in client revenue in the first 6 months** using our gym enterprise SaaS platform
+- **3M in client revenue in the first 6 months** using our gym enterprise SaaS platform
 
 ## Leadership & Ventures
 
