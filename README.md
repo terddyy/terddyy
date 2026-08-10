@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=terddyy&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" alt="Profile views">
+  <img src="https://komarev.com/ghpvc/?username=terddyy&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat&amp;base=9129" alt="Profile views">
 </p>
 
 I lead the design and delivery of intelligent digital products, from software architecture and machine learning to full-stack development and production infrastructure. My work combines technical leadership with hands-on engineering, product thinking, and an entrepreneurial perspective.
