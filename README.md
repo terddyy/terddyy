@@ -15,6 +15,27 @@ I lead the design and delivery of intelligent digital products, from software ar
 - **Lead Software Engineer** at [Nexvision Innovations](https://nexvision.info/)
 - **Founder** of [Zentari Software Solutions](https://www.facebook.com/zentarisoftwaresolution)
 - **Lead Engineer** at [Optrizo Digital Solutions](https://www.optrizo.com/)
+- **Club Captain** at AWS Learning Club - Bughaw
+- **Cloud Engineering Lead** at [WorkflowPH](https://www.facebook.com/WorkFlowPH)
+
+## Credentials
+
+**IBM Full Stack Software Developer**
+
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://brm-workforce.oracle.com/pdf/certview/images/OCI25GAIOCP.png" alt="Oracle Certified Generative AI Professional badge" width="80">
+    </td>
+    <td><strong>Oracle Certified Generative AI Professional</strong></td>
+  </tr>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://brandguide.asu.edu/profiles/contrib/webspark/modules/asu_brand/node_modules/@asu/component-header-footer/dist/assets/img/arizona-state-university-logo-vertical.png" alt="Arizona State University logo" width="90">
+    </td>
+    <td><strong>Arizona State University Industry Track Scholar</strong></td>
+  </tr>
+</table>
 
 ## Focus
 
