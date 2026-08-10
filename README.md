@@ -14,7 +14,7 @@ I lead the design and delivery of intelligent digital products, from software ar
 
 - **Lead Software Engineer** at [Nexvision Innovations](https://nexvision.info/)
 - **Founder** of [Zentari Software Solutions](https://www.facebook.com/zentarisoftwaresolution)
-- **Lead Engineer** at [Optrizo Digital Solutions](https://www.optrizo.com/)
+- **Lead AI Engineer** at [Optrizo Digital Solutions](https://www.optrizo.com/)
 - **Club Captain** at AWS Learning Club - Bughaw
 - **Cloud Engineering Lead** at [WorkflowPH](https://www.facebook.com/WorkFlowPH)
 
