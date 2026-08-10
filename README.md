@@ -15,14 +15,18 @@ I lead the design and delivery of intelligent digital products, from software ar
 - **Lead Software Engineer** at [Nexvision Innovations](https://nexvision.info/)
 - **Founder** of [Zentari Software Solutions](https://www.facebook.com/zentarisoftwaresolution)
 - **Lead AI Engineer** at [Optrizo Digital Solutions](https://www.optrizo.com/)
-- **Club Captain** at AWS Learning Club - Bughaw
+- **Club Captain** at [AWS Learning Club - Bughaw](https://www.facebook.com/profile.php?id=61585249732750)
 - **Cloud Engineering Lead** at [WorkflowPH](https://www.facebook.com/WorkFlowPH)
 
 ## Credentials
 
-**IBM Full Stack Software Developer**
-
 <table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://www.ibm.com/design/language/a41bb6fc86bf12f915d28f4c34f33d74/8bar.svg" alt="IBM logo" width="80">
+    </td>
+    <td><strong>IBM Full Stack Software Developer</strong></td>
+  </tr>
   <tr>
     <td align="center" width="120">
       <img src="https://brm-workforce.oracle.com/pdf/certview/images/OCI25GAIOCP.png" alt="Oracle Certified Generative AI Professional badge" width="80">
